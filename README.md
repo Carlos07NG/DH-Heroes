@@ -8,6 +8,6 @@ variedades de modelos de bicis asi tambien indumetarias para una comoda experiec
 
 __Paginas de referencia__
 
-*[Baiking](https://baiking.com.ar/)
-*[Bici Peretti](https://biciperetti.com.ar/)
-*[Tienda Bike](https://www.tiendabike.com.ar/)
+*[Baiking](https://baiking.com.ar/).
+*[Bici Peretti](https://biciperetti.com.ar/).
+*[Tienda Bike](https://www.tiendabike.com.ar/).
